@@ -1,2 +1,2 @@
-# Coding-Test-Practice-Basic-
-Basic Python Pratice to prepare Coding Test 
+# Algorithm Practice (Basic)
+Python Algorithm Practice (Basic)
